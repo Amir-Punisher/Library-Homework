@@ -1,0 +1,6 @@
+C:\Users\miaka\OneDrive\Desktop\Library HomeWork\Library HomeWork\bin\Debug\Library HomeWork.exe.config
+C:\Users\miaka\OneDrive\Desktop\Library HomeWork\Library HomeWork\bin\Debug\Library HomeWork.exe
+C:\Users\miaka\OneDrive\Desktop\Library HomeWork\Library HomeWork\bin\Debug\Library HomeWork.pdb
+C:\Users\miaka\OneDrive\Desktop\Library HomeWork\Library HomeWork\obj\Debug\Library HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\miaka\OneDrive\Desktop\Library HomeWork\Library HomeWork\obj\Debug\Library HomeWork.exe
+C:\Users\miaka\OneDrive\Desktop\Library HomeWork\Library HomeWork\obj\Debug\Library HomeWork.pdb
